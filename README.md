@@ -6,3 +6,4 @@ Linguagens:
 Ingles;
 Portugues 
 C++
+oings
